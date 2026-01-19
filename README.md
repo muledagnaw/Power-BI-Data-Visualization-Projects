@@ -5,11 +5,10 @@
 
 ---
 
-## 🧩 Project 1: From Excel Workbook to Stunning Report
+## 🧩 Project 1
 
 ### 🔍 Overview
-
-In this project I completed the Microsoft Learn tutorial **“From Excel workbook to stunning report in Power BI Desktop”**. The goal was to transform raw Excel data into a **professionally designed, interactive Power BI report** and publish it to the Power BI Service for sharing and collaboration.
+The goal was to transform raw Excel data into a **professionally designed, interactive Power BI report** and publish it to the Power BI Service for sharing and collaboration.
 
 ---
 
