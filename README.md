@@ -33,6 +33,9 @@ The goal was to transform raw Excel data into a **professionally designed, inter
 ---
 
 ### 🎯 Outcome
+<iframe title="Excecutive Summary-Financial Report" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=5566b0d2-1243-4785-be64-bcc0fba3758d&autoAuth=true&ctid=3ea7c128-c601-4479-a003-e14d00c0b5cb" frameborder="0" allowFullScreen="true"></iframe>
+
+
 <img width="826" height="451" alt="image" src="https://github.com/user-attachments/assets/62eab775-0802-437a-9794-3f0015c31ebb" />
 
 
