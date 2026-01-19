@@ -1,9 +1,3 @@
-Here’s a **clean, professional GitHub README** you can use for **Day 4 – Power BI Projects**.
-It’s written to clearly show **what you did, which skills you used, and the outcome**, while staying concise and recruiter-friendly.
-
-You can paste this directly into your repository as `README.md`.
-
----
 
 # 📊 Power BI Reporting & Data Integration
 
