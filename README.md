@@ -35,11 +35,6 @@ The goal was to transform raw Excel data into a **professionally designed, inter
 ### 🎯 Outcome
 <iframe title="Excecutive Summary-Financial Report" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiOGViOTJlYTgtNmQwNi00ZGZjLWJhYTItNDdlMjE0ZDFlMWU4IiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9" frameborder="0" allowFullScreen="true"></iframe>
 
-
-
-<iframe title="08-Starter-Sales Analysis" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMWExMzJiOGEtZjhlYi00ZWMxLTllOWYtMDE4NzQ3YzBkOGIzIiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9" frameborder="0" allowFullScreen="true"></iframe>
-
-
 * Successfully converted Excel data into an **interactive Power BI report**
 * Gained hands-on experience with **end-to-end report development**
 * Improved understanding of **report publishing and sharing workflows**
