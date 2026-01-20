@@ -8,7 +8,7 @@
 ## 🧩 Project 1
 
 ### 🔍 Overview
-The goal was to transform raw Excel data into a **professionally designed, interactive Power BI report** and publish it to the Power BI Service for sharing and collaboration.
+The goal was to transform raw Excel data into a **professionally designed, interactive Power BI report** .
 
 ---
 
@@ -25,10 +25,10 @@ The goal was to transform raw Excel data into a **professionally designed, inter
 
 * Imported an Excel workbook into Power BI Desktop
 * Cleaned and transformed data using **Power Query**
-* Created interactive visualisations (charts, tables, KPIs)
+* Created interactive visualisations (charts, tables, filled map, line chart)
 * Designed a clear and user-friendly report layout
 * Published the report to **Power BI Service**
-* Shared the report for collaboration and feedback
+
 
 ---
 
@@ -45,11 +45,9 @@ The goal was to transform raw Excel data into a **professionally designed, inter
 
 ---
 
-## 🔗 Project 2: Combine Data from Excel and an OData Feed
+## 🔗 Project 2: Combine Data from Excel 
 
-### 🔍 Overview
-
-This project followed the Microsoft Learn tutorial **“Combine data from Excel and an OData feed in Power BI Desktop”**. The objective was to integrate **multiple data sources**, apply transformations, and create a unified report.
+ The objective is to integrate **multiple data sources**, apply transformations, and create a unified report.
 
 ---
 
@@ -57,8 +55,6 @@ This project followed the Microsoft Learn tutorial **“Combine data from Excel 
 
 * **Power BI Desktop**
 * **Excel**
-* **OData Feed**
-* **Power Query (M language – basic usage)**
 * **Power BI Service**
 
 ---
@@ -66,7 +62,6 @@ This project followed the Microsoft Learn tutorial **“Combine data from Excel 
 ### 📈 Key Activities
 
 * Connected to and imported data from an **Excel file**
-* Connected to an external **OData feed**
 * Cleaned, transformed, and merged datasets
 * Built relationships between tables
 * Created visualisations from combined data
@@ -79,7 +74,6 @@ This project followed the Microsoft Learn tutorial **“Combine data from Excel 
 
 
 * Developed skills in **multi-source data integration**
-* Strengthened understanding of **Power Query transformations**
 * Learned how to manage and publish complex Power BI reports
 
 
