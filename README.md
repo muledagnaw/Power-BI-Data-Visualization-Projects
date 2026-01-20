@@ -1,14 +1,7 @@
 
-# 📊 Power BI Reporting & Data Integration
+# 📊 Power BI Reporting 
 
- The focus of these tasks was on building **interactive Power BI reports** and  transforming data using **Power Query**.
-
----
-
-## 🧩 Project 1
-
-### 🔍 Overview
-The goal was to transform raw Excel data into a **professionally designed, interactive Power BI report** .
+The goal is to transform raw Excel data into a **professionally designed, interactive Power BI report** .
 
 ---
 
@@ -43,7 +36,7 @@ The goal was to transform raw Excel data into a **professionally designed, inter
 
 ---
 
-## 🔗 Project 2: Combine Data from Excel 
+##  Combine Data from Excel 
 
  The objective is to integrate **multiple data sources**, apply transformations, and create a unified report.
 
@@ -72,7 +65,5 @@ The goal was to transform raw Excel data into a **professionally designed, inter
 
 <iframe title="08-Starter-Sales Analysis" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMWExMzJiOGEtZjhlYi00ZWMxLTllOWYtMDE4NzQ3YzBkOGIzIiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9" frameborder="0" allowFullScreen="true"></iframe>
  
-* Developed skills in **multi-source data integration**
-* Learned how to manage and publish complex Power BI reports
 
 
