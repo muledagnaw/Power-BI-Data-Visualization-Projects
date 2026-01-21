@@ -1,68 +1,45 @@
-
-# 📊 Visualisation using Power BI
-
-The goal is to transform raw Excel data into a **professionally designed, interactive Power BI report** .
+Sure 🙂 here’s a **short, clean version** that works well for a README or portfolio:
 
 ---
 
-### 🛠️ Tools & Technologies
+## 📊 Power BI Data Visualisation Project
 
-* **Power BI Desktop**
-* **Microsoft Excel**
-* **Power BI Service**
-* Data modelling and visual design tools
+This project was completed during a Data Technician bootcamp and focuses on analysing and visualising retail and sales data using Power BI. The aim was to turn raw data into clear, interactive reports that support business decision-making.
 
----
+### 🔧 Skills Used
 
-### 📈 Key Activities
+* Data cleaning and transformation with **Power Query**
+* Interactive dashboards with **slicers and filters**
+* **DAX** measures and calculated columns
+* Visualisations including bar charts, line charts and maps
 
-* Imported an Excel workbook into Power BI Desktop
-* Cleaned and transformed data using **Power Query**
-* Created interactive visualisations (charts, tables, filled map, line chart)
-* Designed a clear and user-friendly report layout
-* Published the report to **Power BI Service**
 
 
 ---
 
-### 🎯 Outcome
+### 📊 Reports Included
 
-<iframe title="Excecutive Summary-Financial Report" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiOGViOTJlYTgtNmQwNi00ZGZjLWJhYTItNDdlMjE0ZDFlMWU4IiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9" frameborder="0" allowFullScreen="true"></iframe>
+* **Executive Summary:**
+<img width="826" height="451" alt="image" src="https://github.com/user-attachments/assets/26208128-b02d-4e35-84d2-e818c60fd47a" />
 
-* Successfully converted Excel data into an **interactive Power BI report**
-* Gained hands-on experience with **end-to-end report development**
-* Improved understanding of **report publishing and sharing workflows**
+  
+  Provides a high-level overview of business performance, showing profit trends over time, sales by product, and comparisons across different countries to support quick decision-making.
 
+* **Sales & Distribution:**
+<img width="1558" height="818" alt="power Bi" src="https://github.com/user-attachments/assets/aeb56d14-a801-41e2-8269-70a9dcf0f6c1" />
+
+  Focuses on product demand and sales activity across global markets, highlighting which products sell the most and where sales are strongest.
+
+* **Retail Performance:**
+<img width="1453" height="822" alt="image" src="https://github.com/user-attachments/assets/d867286d-0ba3-4eb1-97c5-ce51a6236c86" />
+
+  
+  Analyses sales and profit margins across regions and product categories, helping identify top-performing areas and opportunities for improvement.
 ---
 
-##  Combine Data from Excel 
 
- The objective is to integrate **multiple data sources**, apply transformations, and create a unified report.
+### 📌 Summary
 
----
-
-### 🛠️ Tools & Technologies
-
-* **Power BI Desktop**
-* **Excel**
-* **Power BI Service**
-
----
-
-### 📈 Key Activities
-
-* Connected to and imported data from an **Excel file**
-* Cleaned, transformed, and merged datasets
-* Built relationships between tables
-* Created visualisations from combined data
-* Published the final report to **Power BI Service**
-
----
-
-### 🎯 Outcome
-<img width="975" height="549" alt="image" src="https://github.com/user-attachments/assets/41067b6b-98ee-40d7-9323-1062c2ddc95a" />
-
-<iframe title="08-Starter-Sales Analysis" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMWExMzJiOGEtZjhlYi00ZWMxLTllOWYtMDE4NzQ3YzBkOGIzIiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9" frameborder="0" allowFullScreen="true"></iframe>
- 
+This project demonstrates practical experience in data modelling, visualisation and storytelling using Power BI, suitable for entry-level data roles.
 
 
