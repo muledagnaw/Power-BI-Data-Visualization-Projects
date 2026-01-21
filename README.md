@@ -1,5 +1,5 @@
 
-# 📊 Power BI Reporting 
+# 📊 Visualisation using Power BI
 
 The goal is to transform raw Excel data into a **professionally designed, interactive Power BI report** .
 
