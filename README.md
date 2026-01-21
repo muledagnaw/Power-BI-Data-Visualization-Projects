@@ -40,6 +40,6 @@ Analyses sales and profit margins across regions and product categories, helping
 
 ### 📌 Summary
 
-This project demonstrates practical experience in data modelling, visualisation and storytelling using Power BI, suitable for entry-level data roles.
+This project demonstrates practical experience in data modelling, visualisation and storytelling using Power BI, suitable.
 
 
