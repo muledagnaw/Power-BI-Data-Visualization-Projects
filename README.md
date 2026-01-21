@@ -1,6 +1,3 @@
-Sure 🙂 here’s a **short, clean version** that works well for a README or portfolio:
-
----
 
 ## 📊 Power BI Data Visualisation Project
 
