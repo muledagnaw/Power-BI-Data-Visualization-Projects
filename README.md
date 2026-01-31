@@ -1,7 +1,8 @@
 
 ## 📊 Power BI Data Visualisation Project
 
-This project was completed during a Data Technician bootcamp and focuses on analysing and visualising retail and sales data using Power BI. The aim was to turn raw data into clear, interactive reports that support business decision-making.
+This project was completed during a Data Technician bootcamp and focuses on analysing and visualising retail and sales data using Power BI. The aim was to turn raw data into clear, interactive reports that support business decision-making. I used this attached Dataset 
+[Financial Sample.xlsx](https://github.com/user-attachments/files/24983434/Financial.Sample.xlsx).
 
 ### 🔧 Skills Used
 
